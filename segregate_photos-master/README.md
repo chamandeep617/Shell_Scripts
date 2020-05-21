@@ -1,4 +1,4 @@
-please clone the segregate repo first :- https://github.com/interviewbit-academy/segregate_photos
+Please clone the segregate repo first :- "https://github.com/interviewbit-academy/segregate_photos"
 
 
 Segregate Photos on date in such structure:
